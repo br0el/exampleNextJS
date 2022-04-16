@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          This is my first Handshake (HNS) <a href="https://whatis.sexy">website!</a>
         </h1>
 
         <p className={styles.description}>
